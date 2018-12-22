@@ -1,0 +1,26 @@
+body {
+background-color: lightgrey;
+}
+
+input {
+    border-radius: 6px;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: #332233;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+textarea {
+    font-family: sans-serif;
+    border-radius: 6px;
+}
+
+.boxed {
+ border: 1px solid black ;
+ padding: 10px ;
+ border-radius: 6px 6px 6px 6px;
+}
